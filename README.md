@@ -3,10 +3,14 @@
 
 Стек технологий:
 - Python 3.8.5
--- CherryPy: RESTful API
--- Django: Admin
-- PostgreSQL
+- CherryPy: RESTful API
+- Django: Adminpanel
+- PostgreSQL: DB
 
+[Demo на Figma](https://clck.ru/RT3Zh)
+
+bot_rosseti - микросерверное решение
+django_admin - панель администрирования
 
 ```bash
 sudo pip install virtualenv
