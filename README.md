@@ -9,6 +9,9 @@
 
 [Demo на Figma](https://clck.ru/RT3Zh)
 
+Демо-логин для приложения: ivanov
+Пароль: 123
+
 bot_rosseti - микросерверное решение
 django_admin - панель администрирования
 
