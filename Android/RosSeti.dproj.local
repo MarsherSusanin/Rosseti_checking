@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ActiveMobileDevice>
+		<NoProfile Android="7YBNU20218100253" iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>  <Transactions>
+    <Transaction>2020.10.17 20:20:40.415,F:\Alecs\RADdelphiProjects\RosSeti\RosSeti.dproj=F:\Alecs\RADdelphiProjects\RosSeti\HeaderFooterApplication.dproj</Transaction>
+    <Transaction>2020.10.17 21:55:19.322,=F:\Alecs\RADdelphiProjects\RosSeti\Unit1.pas</Transaction>
+    <Transaction>2020.10.17 21:57:00.776,=F:\Alecs\RADdelphiProjects\RosSeti\Unit1.pas</Transaction>
+    <Transaction>2020.10.17 21:57:44.060,F:\Alecs\RADdelphiProjects\RosSeti\main.pas=F:\Alecs\RADdelphiProjects\RosSeti\Unit1.pas</Transaction>
+    <Transaction>2020.10.17 21:57:44.060,F:\Alecs\RADdelphiProjects\RosSeti\main.fmx=F:\Alecs\RADdelphiProjects\RosSeti\Unit1.fmx</Transaction>
+    <Transaction>2020.10.17 22:00:59.893,=F:\Alecs\RADdelphiProjects\RosSeti\Unit2.pas</Transaction>
+    <Transaction>2020.10.17 22:20:35.620,=F:\Alecs\RADdelphiProjects\RosSeti\Unit1.pas</Transaction>
+    <Transaction>2020.10.17 22:20:50.469,F:\Alecs\RADdelphiProjects\RosSeti\GlobalVar.pas=F:\Alecs\RADdelphiProjects\RosSeti\Unit1.pas</Transaction>
+    <Transaction>2020.10.18 15:13:51.758,=F:\Alecs\RADdelphiProjects\RosSeti\Unit2.pas</Transaction>
+    <Transaction>2020.10.18 15:14:52.639,F:\Alecs\RADdelphiProjects\RosSeti\Unitworkorder.pas=F:\Alecs\RADdelphiProjects\RosSeti\Unit2.pas</Transaction>
+    <Transaction>2020.10.18 15:14:52.639,F:\Alecs\RADdelphiProjects\RosSeti\Unitworkorder.fmx=F:\Alecs\RADdelphiProjects\RosSeti\Unit2.fmx</Transaction>
+  </Transactions>
+</BorlandProject>
